@@ -7,11 +7,11 @@ a shoping program that runs on the command line (phase1: does not save informati
 **Example: signup person 123 seller**\
 this command is for signup in the program(obviously) \
 there can only be one person with the same username and role in this program \
-the role can be a buyer or a seller \
+the role can be a buyer or a seller 
 
 **login username password role**\
 **Example: login otherPerson 231 buyer**\
-this command logs a user in to the program \
+this command logs a user in to the program 
 
 **logout**\
 **Example: logout**\
