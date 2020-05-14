@@ -43,3 +43,8 @@ this command is for buyers only(obviously)\
 it is used to buy a product from another user
 
 
+***this project was done using visual studio what has been uploaded here is the whole project folder***
+
+to run and try this program run the .exe file located in ut_kala_cpy\Debug
+
+*writen in c*
