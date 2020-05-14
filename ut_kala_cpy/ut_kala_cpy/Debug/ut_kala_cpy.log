@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\Arian\source\repos\ut_kala_cpy\ut_kala_cpy\main.c(42,26): warning C4013: 'split' undefined; assuming extern returning int
+C:\Users\Arian\source\repos\ut_kala_cpy\ut_kala_cpy\main.c(42,38): warning C4047: '=': 'char **' differs in levels of indirection from 'int'
+C:\Users\Arian\source\repos\ut_kala_cpy\ut_kala_cpy\main.c(72,38): warning C4047: '=': 'char **' differs in levels of indirection from 'int'
+C:\Users\Arian\source\repos\ut_kala_cpy\ut_kala_cpy\main.c(106,38): warning C4047: '=': 'char **' differs in levels of indirection from 'int'
+C:\Users\Arian\source\repos\ut_kala_cpy\ut_kala_cpy\main.c(36,11): warning C4101: 'str': unreferenced local variable
+  ut_kala_cpy.vcxproj -> C:\Users\Arian\source\repos\ut_kala_cpy\Debug\ut_kala_cpy.exe
